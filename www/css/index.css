@@ -138,3 +138,17 @@ body {
     text-align: center;
     padding: 10px;
   }
+.btn-circle {
+  background-color: #007bff;
+  border: none;
+  border-radius: 50%;
+  color: #fff;
+  cursor: pointer;
+  font-size: 24px;
+  height: 48px;
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  width: 48px;
+  z-index: 999;
+}
